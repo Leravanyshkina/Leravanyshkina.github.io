@@ -209,54 +209,21 @@
 .menu{
     position: absolute;
     top: 160px;
-    left: 240px;
+    left: 90px;
     display: flex;
     justify-content: space-around;
+    font-family: Suisse Int;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    color: #616161;
 }
-.f1{
+.f1,.f2,.f3,.f4,.f5,.f6,.f7,.f8,.f9{
     color: #616161;
     text-decoration: none;
-    position: relative;   
-}
-.f2{
-    color: #616161;
-    text-decoration: none;
-    margin-left: 100px;
-}
-.f3{
-    color: #616161;
-    text-decoration: none;
-    margin-left: 100px;
-}
-.f4{
-    color: #616161;
-    text-decoration: none;
-    margin-left: 100px;
-}
-.f5{
-    color: #616161;
-    text-decoration: none;
-    margin-left: 100px;
-}
-.f6{
-    color: #616161;
-    text-decoration: none;
-    margin-left: 100px;
-}
-.f7{
-    color: #616161;
-    text-decoration: none;
-    margin-left: 100px;
-}
-.f8{
-    color: #616161;
-    text-decoration: none;
-    margin-left: 100px;
-}
-.f9{
-    color: #616161;
-    text-decoration: none;
-    margin-left: 100px;
+    margin-left: 120px;
 }
 .kartinka{
     background: linear-gradient(180deg, rgba(224,63,251,0) 33%, rgba(0,0,0,0.7875525210084033) 89%), url(./kartinka.png);
